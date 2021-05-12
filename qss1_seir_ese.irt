@@ -1,43 +1,48 @@
-26
+27
 0 constant 1
 1 constant -0.05
 2 constant -0.64
-3 qss1_integrator 0 0.01
-4 qss1_integrator 0 0.01
-5 qss1_integrator 0 0.01
-6 qss1_integrator 0 0.01
+3 qss1_integrator 3.587 0.01
+4 qss1_integrator 9.574 0.01
+5 qss1_integrator 7.9875 0.01
+6 qss1_integrator 2.347 0.01
 7 qss1_multiplier
-8 qss1_wsum_3 0 0 0
+8 qss1_wsum_3 24.2568 15.275 6.6687
 9 qss1_multiplier
 10 qss1_multiplier
 11 constant 0.05
 12 constant -0.514
 13 qss1_multiplier
 14 qss1_multiplier
-15 qss1_wsum_2 0 0
+15 qss1_wsum_2 1.0257 0.5785
 16 constant 0.514
 17 qss1_multiplier
 18 constant -0.3142
 19 qss1_multiplier
-20 qss1_wsum_3 0 0 0
+20 qss1_wsum_3 5 6 7
 21 constant 0.113
 22 qss1_multiplier
 23 constant -0.64
 24 qss1_multiplier
-25 qss1_wsum_2 0 0
-0 0 8 0
-1 0 9 0
-2 0 10 0
-3 0 10 1
-3 0 7 0
-4 0 17 1
-4 0 14 1
-5 0 22 1
-5 0 19 1
+25 qss1_wsum_2 2.147 3.142
+26 constant 10
+0 0 7 1
+0 0 19 1
+0 0 9 1
+0 0 13 1
+1 0 19 1
+1 0 9 1
+1 0 13 1
+2 0 8 1
+3 0 13 1
+4 0 24 1
 5 0 7 1
+5 0 19 1
+5 0 9 1
+5 0 13 1
 6 0 24 1
-7 0 13 1
 7 0 9 1
+7 0 13 1
 8 0 3 0
 9 0 8 1
 10 0 8 2
@@ -56,3 +61,4 @@
 23 0 24 0
 24 0 25 1
 25 0 6 0
+26 0 20 2
